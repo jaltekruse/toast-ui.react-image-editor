@@ -53,7 +53,7 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "fabric": "3.6.0",
-    "tui-image-editor": "github:jaltekruse/tui.image-editor#fix-text-double-click"
+    "fabric": "4.3.1",
+    "tui-image-editor": "github:jaltekruse/tui.image-editor#fix-serialization"
   }
 }

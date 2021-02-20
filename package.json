@@ -54,6 +54,6 @@
   },
   "dependencies": {
     "fabric": "4.3.1",
-    "tui-image-editor": "github:jaltekruse/tui.image-editor#fix-serialization"
+    "tui-image-editor": "github:jaltekruse/tui.image-editor#97519498561bfdc8c408c3b08ce8a9dcc4a2a4e8"
   }
 }

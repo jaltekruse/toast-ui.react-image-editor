@@ -54,6 +54,6 @@
   },
   "dependencies": {
     "fabric": "4.3.1",
-    "tui-image-editor": "github:jaltekruse/tui.image-editor#ba055034fb2c7d623e56778f35d280c7d37a167f"
+    "tui-image-editor": "github:jaltekruse/tui.image-editor#e4e74d80439efcd6e5a483c195a61ebe61f8caec"
   }
 }
